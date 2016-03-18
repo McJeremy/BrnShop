@@ -12,3 +12,10 @@ C:\Users\ZhangMeng\Desktop\工作\BrnMall\Libraries\BrnMall.Data\bin\Debug\BrnMa
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Libraries\BrnMall.Data\obj\Debug\BrnMall.Data.csprojResolveAssemblyReference.cache
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Libraries\BrnMall.Data\obj\Debug\BrnMall.Data.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Libraries\BrnMall.Data\obj\Debug\BrnMall.Data.pdb
+F:\Study\BrnMall\Libraries\BrnMall.Data\bin\Debug\BrnMall.Data.dll
+F:\Study\BrnMall\Libraries\BrnMall.Data\bin\Debug\BrnMall.Data.pdb
+F:\Study\BrnMall\Libraries\BrnMall.Data\bin\Debug\BrnMall.Core.dll
+F:\Study\BrnMall\Libraries\BrnMall.Data\bin\Debug\BrnMall.Core.pdb
+F:\Study\BrnMall\Libraries\BrnMall.Data\obj\Debug\BrnMall.Data.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Libraries\BrnMall.Data\obj\Debug\BrnMall.Data.dll
+F:\Study\BrnMall\Libraries\BrnMall.Data\obj\Debug\BrnMall.Data.pdb

@@ -11,3 +11,7 @@ C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.SearchSt
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.SearchStrategy.SqlServer.pdb
 C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Debug\BrnMall.SearchStrategy.SqlServer.dll
 C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Debug\BrnMall.SearchStrategy.SqlServer.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.SearchStrategy.SqlServer.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.SearchStrategy.SqlServer.pdb
+F:\Study\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Debug\BrnMall.SearchStrategy.SqlServer.dll
+F:\Study\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Debug\BrnMall.SearchStrategy.SqlServer.pdb

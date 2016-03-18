@@ -11,3 +11,7 @@ C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.R
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.RandomStrategy.BrnMall\obj\Debug\BrnMall.RandomStrategy.BrnMall.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.RandomStrategy.BrnMall\obj\Debug\BrnMall.RandomStrategy.BrnMall.pdb
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.RandomStrategy.BrnMall\obj\Debug\BrnMall.RandomStrategy.BrnMall.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RandomStrategy.BrnMall.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RandomStrategy.BrnMall.pdb
+F:\Study\BrnMall\Strategies\BrnMall.RandomStrategy.BrnMall\obj\Debug\BrnMall.RandomStrategy.BrnMall.dll
+F:\Study\BrnMall\Strategies\BrnMall.RandomStrategy.BrnMall\obj\Debug\BrnMall.RandomStrategy.BrnMall.pdb

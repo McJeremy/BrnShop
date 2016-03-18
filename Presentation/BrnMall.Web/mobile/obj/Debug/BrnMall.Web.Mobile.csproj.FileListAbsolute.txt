@@ -14,3 +14,8 @@ C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.Mobi
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\mobile\obj\Debug\BrnMall.Web.Mobile.csprojResolveAssemblyReference.cache
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\mobile\obj\Debug\BrnMall.Web.Mobile.dll
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\mobile\obj\Debug\BrnMall.Web.Mobile.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.Mobile.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.Mobile.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\mobile\obj\Debug\BrnMall.Web.Mobile.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Presentation\BrnMall.Web\mobile\obj\Debug\BrnMall.Web.Mobile.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\mobile\obj\Debug\BrnMall.Web.Mobile.pdb

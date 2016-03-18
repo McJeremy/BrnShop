@@ -15,3 +15,12 @@ C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMa
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.pdb
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\plugin.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\db.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\views\adminchinabank\config.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\views\show.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\BrnMall.PayPlugin.ChinaBank.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\BrnMall.PayPlugin.ChinaBank.pdb
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.dll
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.pdb

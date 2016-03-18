@@ -13,3 +13,10 @@ C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayP
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.EMSRemit\BrnMall.PayPlugin.EMSRemit.pdb
 C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.EMSRemit\obj\Debug\BrnMall.PayPlugin.EMSRemit.dll
 C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.EMSRemit\obj\Debug\BrnMall.PayPlugin.EMSRemit.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.EMSRemit\db.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.EMSRemit\plugin.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.EMSRemit\views\adminemsremit\config.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.EMSRemit\BrnMall.PayPlugin.EMSRemit.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.EMSRemit\BrnMall.PayPlugin.EMSRemit.pdb
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.EMSRemit\obj\Debug\BrnMall.PayPlugin.EMSRemit.dll
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.EMSRemit\obj\Debug\BrnMall.PayPlugin.EMSRemit.pdb

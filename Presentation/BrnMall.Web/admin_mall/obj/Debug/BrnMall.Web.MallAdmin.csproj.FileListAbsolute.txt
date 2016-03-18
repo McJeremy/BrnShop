@@ -10,3 +10,7 @@ C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.W
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.pdb
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.pdb

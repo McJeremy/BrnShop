@@ -7,3 +7,7 @@ C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CartStra
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CartStrategy.SqlServer.pdb
 C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CartStrategy.SqlServer\obj\Debug\BrnMall.CartStrategy.SqlServer.dll
 C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CartStrategy.SqlServer\obj\Debug\BrnMall.CartStrategy.SqlServer.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CartStrategy.SqlServer.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CartStrategy.SqlServer.pdb
+F:\Study\BrnMall\Strategies\BrnMall.CartStrategy.SqlServer\obj\Debug\BrnMall.CartStrategy.SqlServer.dll
+F:\Study\BrnMall\Strategies\BrnMall.CartStrategy.SqlServer\obj\Debug\BrnMall.CartStrategy.SqlServer.pdb

@@ -15,3 +15,12 @@ C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMa
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.pdb
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\plugin.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\views\adminalipay\config.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\db.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\views\show.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\BrnMall.PayPlugin.Alipay.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\BrnMall.PayPlugin.Alipay.pdb
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.dll
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.pdb

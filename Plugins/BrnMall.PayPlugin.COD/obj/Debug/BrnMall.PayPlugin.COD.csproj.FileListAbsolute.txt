@@ -13,3 +13,10 @@ C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayP
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.pdb
 C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.dll
 C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\db.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\plugin.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\views\admincod\config.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.pdb
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.dll
+F:\Study\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.pdb

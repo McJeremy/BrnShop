@@ -7,3 +7,8 @@ C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.OrderStr
 C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.OrderStrategy.SqlServer.pdb
 C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Debug\BrnMall.OrderStrategy.SqlServer.dll
 C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Debug\BrnMall.OrderStrategy.SqlServer.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.OrderStrategy.SqlServer.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.OrderStrategy.SqlServer.pdb
+F:\Study\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Debug\BrnMall.OrderStrategy.SqlServer.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Debug\BrnMall.OrderStrategy.SqlServer.dll
+F:\Study\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Debug\BrnMall.OrderStrategy.SqlServer.pdb

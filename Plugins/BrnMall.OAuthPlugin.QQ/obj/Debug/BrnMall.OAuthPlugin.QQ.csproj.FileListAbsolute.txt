@@ -14,3 +14,11 @@ C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMa
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.OAuthPlugin.QQ\obj\Debug\BrnMall.OAuthPlugin.QQ.csprojResolveAssemblyReference.cache
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.OAuthPlugin.QQ\obj\Debug\BrnMall.OAuthPlugin.QQ.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.OAuthPlugin.QQ\obj\Debug\BrnMall.OAuthPlugin.QQ.pdb
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\plugin.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\views\adminqqoauth\config.cshtml
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\db.config
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\BrnMall.OAuthPlugin.QQ.dll
+F:\Study\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\BrnMall.OAuthPlugin.QQ.pdb
+F:\Study\BrnMall\Plugins\BrnMall.OAuthPlugin.QQ\obj\Debug\BrnMall.OAuthPlugin.QQ.csprojResolveAssemblyReference.cache
+F:\Study\BrnMall\Plugins\BrnMall.OAuthPlugin.QQ\obj\Debug\BrnMall.OAuthPlugin.QQ.dll
+F:\Study\BrnMall\Plugins\BrnMall.OAuthPlugin.QQ\obj\Debug\BrnMall.OAuthPlugin.QQ.pdb
